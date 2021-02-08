@@ -1,0 +1,30 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" width="361" height="256" viewBox="0 0 361 256">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1109 -188)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1109 372)" fill="#fff" stroke="#c7c1c1" stroke-width="3">
+      <circle cx="36" cy="36" r="36" stroke="none"/>
+      <circle cx="36" cy="36" r="34.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="261" height="10" rx="5" transform="translate(1209 395)" fill="#c6edd5"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="114" height="10" rx="5" transform="translate(1209 410)" fill="#c6edd5"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="10" height="10" rx="5" transform="translate(1460 409)" fill="#c6edd5"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="10" height="10" rx="5" transform="translate(1445 409)" fill="#c6edd5"/>
+  </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(-1109 -280)">
+    <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(1109 372)" fill="#fff" stroke="#c7c1c1" stroke-width="3">
+      <circle cx="36" cy="36" r="36" stroke="none"/>
+      <circle cx="36" cy="36" r="34.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_4-2" data-name="Rectangle 4" width="261" height="10" rx="5" transform="translate(1209 395)" fill="#f9d5a5"/>
+    <rect id="Rectangle_5-2" data-name="Rectangle 5" width="114" height="10" rx="5" transform="translate(1209 410)" fill="#f9d5a5"/>
+    <rect id="Rectangle_6-2" data-name="Rectangle 6" width="10" height="10" rx="5" transform="translate(1460 409)" fill="#f9d5a5"/>
+    <rect id="Rectangle_7-2" data-name="Rectangle 7" width="10" height="10" rx="5" transform="translate(1445 409)" fill="#f9d5a5"/>
+  </g>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1109 -372)">
+    <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="36" cy="36" r="36" transform="translate(1109 372)" fill="#1fc41f"/>
+    <path id="Path_1" data-name="Path 1" d="M1125.575,411.064l9.108,8.692,22.154-21.141" transform="translate(3.794 -1.186)" fill="none" stroke="#fff" stroke-width="7"/>
+    <rect id="Rectangle_4-3" data-name="Rectangle 4" width="261" height="10" rx="5" transform="translate(1209 395)" fill="#f7dcfa"/>
+    <rect id="Rectangle_5-3" data-name="Rectangle 5" width="114" height="10" rx="5" transform="translate(1209 410)" fill="#f7dcfa"/>
+    <rect id="Rectangle_6-3" data-name="Rectangle 6" width="10" height="10" rx="5" transform="translate(1460 409)" fill="#f7dcfa"/>
+    <rect id="Rectangle_7-3" data-name="Rectangle 7" width="10" height="10" rx="5" transform="translate(1445 409)" fill="#f7dcfa"/>
+  </g>
+</svg>
