@@ -39,4 +39,60 @@ body {
 .navbar .mobile-menu {
   cursor: pointer;
 }
+
+a {
+  color: #444444;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 5em 2em;
+}
+
+.hero {
+  text-align: center;
+}
+
+.left-col .subhead {
+  text-transform: uppercase;
+  color: #918E8E;
+  font-weight: bold;
+  letter-spacing: .3em;
+}
+
+.left-col h1 {
+  font-size: 2.5em;
+  line-height: 1.4em;
+  margin-top: .2em;
+}
+
+.left-col .primary-cta {
+  text-decoration: none;
+  background-color: var(--primary-color);
+  padding: .6em 1.3em;
+  font-size: 1.4em;
+  color: #fff;
+  border-radius: 5em;
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.left-col .watch-video-cta {
+  display: block;
+  margin-top: 1em;
+}
+
+.left-col .watch-video-cta img {
+  margin-right: .5em;
+}
+
+.hero-img {
+  width: 70%;
+  margin-top: 3em;
+}
 /*# sourceMappingURL=main.css.map */
