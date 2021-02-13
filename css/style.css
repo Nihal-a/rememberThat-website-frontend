@@ -347,5 +347,13 @@ nav li a:hover {
     width: 350px;
     bottom: -2em;
   }
+  .testimonial-section ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .testimonial-section ul li {
+    margin: 0 1em;
+  }
 }
 /*# sourceMappingURL=style.css.map */
