@@ -326,5 +326,26 @@ nav li a:hover {
   .watch-video-cta {
     padding-top: 1.5em;
   }
+  ul.feature-list {
+    display: block;
+    margin-left: 5em;
+  }
+  ul.feature-list li {
+    font-size: 1.5em;
+  }
+  ul.feature-list li:before {
+    width: 30px;
+    height: 30px;
+  }
+  .feature-section {
+    position: relative;
+  }
+  .feature-section img {
+    display: block;
+    position: absolute;
+    right: 0;
+    width: 350px;
+    bottom: -2em;
+  }
 }
 /*# sourceMappingURL=style.css.map */

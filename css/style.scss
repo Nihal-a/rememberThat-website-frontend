@@ -284,5 +284,28 @@ nav{
     .watch-video-cta{
         padding-top: 1.5em;
     }
-    
+    ul.feature-list{
+        display: block;
+        margin-left: 5em;
+
+        li{
+            font-size: 1.5em;
+
+            &:before{
+                width: 30px;
+                height: 30px;
+            }
+        }
+    }
+    .feature-section{
+        position: relative;
+
+        img{
+            display: block;
+            position: absolute;
+            right: 0;
+            width: 350px;
+            bottom: -2em;
+        }
+    }
 }
