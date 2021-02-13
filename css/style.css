@@ -395,4 +395,16 @@ nav li a:hover {
     top: 2em;
   }
 }
+
+footer {
+  background: #20272e;
+  height: 40px;
+  text-align: center;
+}
+
+footer a {
+  color: #fff;
+  font-size: 10px;
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
